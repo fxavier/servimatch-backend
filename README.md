@@ -1,5 +1,4 @@
 # servimatch-backend
-README.md
 ServiMatch - Intelligent Local Services Marketplace
 ServiMatch is a marketplace platform that connects local service providers with customers, featuring intelligent AI-powered recommendations.
 🏗️ Architecture
